@@ -1,14 +1,12 @@
 # foobar
-### foobar is a python library with word
+foobar is a python library with word
 # installation
-### use a package manager pip 
+use a package manager pip 
 ```
-# code block
 pip install foobar
 ```
 # usage
 ```
-# code block
 import foobar
 foobar.pluralize
 foobar.pluralize
@@ -23,4 +21,4 @@ please make sure to update
 [mit](https://www.google.com/)
 
 # images
-![image]()
+![image](https://raw.githubusercontent.com/mikhail-maged/lab2/main/images/Screenshot%20from%202022-06-25%2012-37-36.png)
