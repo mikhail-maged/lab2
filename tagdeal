@@ -1,0 +1,6 @@
+to list tag locally 
+git tag
+to remove locally 
+git tag -d tagname
+to remove remotely
+git push --delete origin tagname
