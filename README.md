@@ -20,7 +20,7 @@ pull requests are welcome \
 please make sure to update
 
 # licence
-[mit]()
+[mit](https://www.google.com/)
 
 # images
 ![image]()

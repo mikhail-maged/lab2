@@ -1,0 +1,9 @@
+locally 
+if the content of branch dont merge with main then use
+git branch -D branchname
+if it has been merged then use
+git branch -d branchname
+
+remotely using push command 
+git push origin :branchname
+
